@@ -1,8 +1,10 @@
 ### Description
 
-sbt project to follow rtjvm videos
+`sbt` project to follow rtjvm videos
+
 Each sub module maps to a rtjvm video
-Can compile/nun Kotlin, Scala or Java (or all 3) in sub module
+
+Can compile/nun `Kotlin`, `Scala` or `Java` (or all 3) in sub module
 
 ```commandline
 rm -rf ~/.sbt/1.0 ~/.ivy2/cache ~/.coursier/cache project/target/ target/
