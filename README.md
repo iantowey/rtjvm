@@ -1,6 +1,6 @@
 ### Description
 
-`sbt` project to follow rtjvm videos
+`sbt` project to follow rtjvm video tutorial
 
 Each sub module maps to a rtjvm video
 
