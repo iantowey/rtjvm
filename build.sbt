@@ -8,7 +8,9 @@ lazy val commonSettings = Seq(
   Test / unmanagedSourceDirectories += baseDirectory.value / "src" / "test" / "kotlin",
   libraryDependencies ++= Seq(
     "org.slf4j" % "slf4j-api" % "2.0.16",
-    "org.projectlombok" % "lombok" % "1.18.34"
+    "org.projectlombok" % "lombok" % "1.18.34",
+    "ch.qos.logback" % "logback-classic" % "1.5.11",
+    "org.jetbrains.kotlinx" % "kotlinx-coroutines-core-linuxx64" % "1.9.0"
   )
 )
 

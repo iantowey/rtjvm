@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=Wpco6IK1hmY
 
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazdnSnFBZE8xT2JEX2l1UzFSbC1pVkRqWjBXUXxBQ3Jtc0tuZkRRQXYwaFNsSEc5b05SZlYtVm05UFhsTk8yei0tbmpyeDJ1NHUzRHRONzZVaGpLNDVpcWlxS1ZfWHFoVzlzbmFGYUQ3V3l2blNxYnNpbGQ5eGhtXzZwZDJOVUpxanMtT2VvRW83bmgtUkZ0Vmplcw&q=https%3A%2F%2Fblog.rockthejvm.com%2Fkotlin-coroutines-101%2F&v=Wpco6IK1hmY
 
 https://www.youtube.com/watch?v=2RdHD0tceL4
